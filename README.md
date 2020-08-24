@@ -1,11 +1,11 @@
-#Micro-Frontend (ModuleFederationPlugin)
+# Micro-Frontend (ModuleFederationPlugin)
 
-###Avaliable scripts:
+### Avaliable scripts:
 * bootstrap -- install packages dependencies;
 * start -- run packages in development mode;
 * build -- build packages;
 
-###Possible errors:
+### Possible errors:
 **Uncaught Error: Shared module is not available for eager consumption**
 
 Solution:
