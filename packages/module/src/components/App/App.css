@@ -1,0 +1,15 @@
+*, *:before, *:after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+
+.area {
+	width: fit-content;
+	background-color: cornflowerblue;
+	border-radius: 4px;
+	font-size: 72px;
+	margin: auto;
+	padding: 20px;
+}
